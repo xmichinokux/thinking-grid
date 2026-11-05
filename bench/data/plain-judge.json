@@ -1,0 +1,3422 @@
+[
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 474,
+   "detail": 917,
+   "five": 786,
+   "last": 542
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 474,
+   "detail": 917,
+   "five": 786,
+   "last": 542
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 786,
+   "last": 542,
+   "none": 474,
+   "detail": 917
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 970,
+   "five": 825,
+   "last": 611,
+   "none": 520
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 5
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 970,
+   "five": 825,
+   "last": 611,
+   "none": 520
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 611,
+   "none": 520,
+   "detail": 970,
+   "five": 825
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 2
+   },
+   "丁": {
+    "take": 2,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 884,
+   "last": 471,
+   "none": 466,
+   "detail": 991
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 884,
+   "last": 471,
+   "none": 466,
+   "detail": 991
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 466,
+   "detail": 991,
+   "five": 884,
+   "last": 471
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 3
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 498,
+   "none": 452,
+   "detail": 1043,
+   "five": 1193
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 498,
+   "none": 452,
+   "detail": 1043,
+   "five": 1193
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 5
+   },
+   "丙": {
+    "take": 3,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 1043,
+   "five": 1193,
+   "last": 498,
+   "none": 452
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 475,
+   "detail": 815,
+   "five": 1025,
+   "last": 559
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 475,
+   "detail": 815,
+   "five": 1025,
+   "last": 559
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 1025,
+   "last": 559,
+   "none": 475,
+   "detail": 815
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 2,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 889,
+   "five": 820,
+   "last": 626,
+   "none": 536
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 889,
+   "five": 820,
+   "last": 626,
+   "none": 536
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 626,
+   "none": 536,
+   "detail": 889,
+   "five": 820
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丙": {
+    "take": 2,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 721,
+   "last": 428,
+   "none": 423,
+   "detail": 882
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 721,
+   "last": 428,
+   "none": 423,
+   "detail": 882
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 423,
+   "detail": 882,
+   "five": 721,
+   "last": 428
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 453,
+   "none": 481,
+   "detail": 841,
+   "five": 626
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 453,
+   "none": 481,
+   "detail": 841,
+   "five": 626
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 841,
+   "five": 626,
+   "last": 453,
+   "none": 481
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 476,
+   "detail": 881,
+   "five": 812,
+   "last": 470
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 476,
+   "detail": 881,
+   "five": 812,
+   "last": 470
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 812,
+   "last": 470,
+   "none": 476,
+   "detail": 881
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 2,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 1386,
+   "five": 1036,
+   "last": 561,
+   "none": 503
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 1386,
+   "five": 1036,
+   "last": 561,
+   "none": 503
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 561,
+   "none": 503,
+   "detail": 1386,
+   "five": 1036
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 964,
+   "last": 537,
+   "none": 455,
+   "detail": 1344
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 964,
+   "last": 537,
+   "none": 455,
+   "detail": 1344
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 2
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 455,
+   "detail": 1344,
+   "five": 964,
+   "last": 537
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 543,
+   "none": 537,
+   "detail": 1350,
+   "five": 929
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 543,
+   "none": 537,
+   "detail": 1350,
+   "five": 929
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 1350,
+   "five": 929,
+   "last": 543,
+   "none": 537
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 2,
+    "easy": 2
+   },
+   "乙": {
+    "take": 2,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 523,
+   "detail": 1376,
+   "five": 1108,
+   "last": 523
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 1
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 523,
+   "detail": 1376,
+   "five": 1108,
+   "last": 523
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 1108,
+   "last": 523,
+   "none": 523,
+   "detail": 1376
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 2,
+    "easy": 1
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 911,
+   "five": 803,
+   "last": 514,
+   "none": 537
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 911,
+   "five": 803,
+   "last": 514,
+   "none": 537
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 514,
+   "none": 537,
+   "detail": 911,
+   "five": 803
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 2,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 741,
+   "last": 550,
+   "none": 521,
+   "detail": 1628
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 741,
+   "last": 550,
+   "none": 521,
+   "detail": 1628
+  }
+ },
+ {
+  "g": "claude",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 1
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 5
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 521,
+   "detail": 1628,
+   "five": 741,
+   "last": 550
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1827,
+   "none": 1956,
+   "detail": 4518,
+   "five": 2697
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1827,
+   "none": 1956,
+   "detail": 4518,
+   "five": 2697
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 4518,
+   "five": 2697,
+   "last": 1827,
+   "none": 1956
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1637,
+   "detail": 4465,
+   "five": 3055,
+   "last": 2478
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1637,
+   "detail": 4465,
+   "five": 3055,
+   "last": 2478
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲|乙"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 3055,
+   "last": 2478,
+   "none": 1637,
+   "detail": 4465
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 5187,
+   "five": 3250,
+   "last": 1511,
+   "none": 2491
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 5187,
+   "five": 3250,
+   "last": 1511,
+   "none": 2491
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "町内会に入る人を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1511,
+   "none": 2491,
+   "detail": 5187,
+   "five": 3250
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 2710,
+   "last": 2142,
+   "none": 1863,
+   "detail": 5213
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 2710,
+   "last": 2142,
+   "none": 1863,
+   "detail": 5213
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1863,
+   "detail": 5213,
+   "five": 2710,
+   "last": 2142
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2164,
+   "none": 1870,
+   "detail": 5995,
+   "five": 2380
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2164,
+   "none": 1870,
+   "detail": 5995,
+   "five": 2380
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 2,
+    "easy": 1
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 5995,
+   "five": 2380,
+   "last": 2164,
+   "none": 1870
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1638,
+   "detail": 5281,
+   "five": 3076,
+   "last": 2166
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1638,
+   "detail": 5281,
+   "five": 3076,
+   "last": 2166
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "小さなカフェの平日の昼のお客さんを増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 3076,
+   "last": 2166,
+   "none": 1638,
+   "detail": 5281
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 3908,
+   "five": 2044,
+   "last": 1572,
+   "none": 1176
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 3908,
+   "five": 2044,
+   "last": 1572,
+   "none": 1176
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1572,
+   "none": 1176,
+   "detail": 3908,
+   "five": 2044
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 3550,
+   "last": 1283,
+   "none": 920,
+   "detail": 4429
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 3550,
+   "last": 1283,
+   "none": 920,
+   "detail": 4429
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 920,
+   "detail": 4429,
+   "five": 3550,
+   "last": 1283
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1597,
+   "none": 1463,
+   "detail": 3880,
+   "five": 2249
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 1597,
+   "none": 1463,
+   "detail": 3880,
+   "five": 2249
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "PTA の役員の負担を減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 3880,
+   "five": 2249,
+   "last": 1597,
+   "none": 1463
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 2170,
+   "detail": 4190,
+   "five": 2873,
+   "last": 1795
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 2170,
+   "detail": 4190,
+   "five": 2873,
+   "last": 1795
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 2873,
+   "last": 1795,
+   "none": 2170,
+   "detail": 4190
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 3768,
+   "five": 2796,
+   "last": 2332,
+   "none": 2321
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 3768,
+   "five": 2796,
+   "last": 2332,
+   "none": 2321
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2332,
+   "none": 2321,
+   "detail": 3768,
+   "five": 2796
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 3,
+    "easy": 2
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 2742,
+   "last": 1459,
+   "none": 1626,
+   "detail": 4383
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 5,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 2742,
+   "last": 1459,
+   "none": 1626,
+   "detail": 4383
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "中小企業で若手がすぐ辞めるのを減らしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 4,
+    "easy": 4
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 1626,
+   "detail": 4383,
+   "five": 2742,
+   "last": 1459
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "opus",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 3,
+    "easy": 2
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2671,
+   "none": 2505,
+   "detail": 6623,
+   "five": 2037
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2671,
+   "none": 2505,
+   "detail": 6623,
+   "five": 2037
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 1,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 6623,
+   "five": 2037,
+   "last": 2671,
+   "none": 2505
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "opus",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 2
+   },
+   "乙": {
+    "take": 3,
+    "easy": 3
+   },
+   "丙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丁": {
+    "take": 4,
+    "easy": 4
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 2189,
+   "detail": 5084,
+   "five": 1971,
+   "last": 2147
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 0,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 3
+   },
+   "乙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丙": {
+    "take": 4,
+    "easy": 5
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "乙"
+  },
+  "map": {
+   "甲": "none",
+   "乙": "detail",
+   "丙": "five",
+   "丁": "last"
+  },
+  "chars": {
+   "none": 2189,
+   "detail": 5084,
+   "five": 1971,
+   "last": 2147
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 2,
+  "who": "gemini",
+  "k": 2,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 2,
+    "easy": 1
+   },
+   "丁": {
+    "take": 4,
+    "easy": 3
+   },
+   "best": "甲"
+  },
+  "map": {
+   "甲": "five",
+   "乙": "last",
+   "丙": "none",
+   "丁": "detail"
+  },
+  "chars": {
+   "five": 1971,
+   "last": 2147,
+   "none": 2189,
+   "detail": 5084
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "opus",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 3,
+    "easy": 3
+   },
+   "乙": {
+    "take": 4,
+    "easy": 4
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 2,
+    "easy": 2
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 6009,
+   "five": 2664,
+   "last": 2118,
+   "none": 1931
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 1,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 4
+   },
+   "乙": {
+    "take": 4,
+    "easy": 5
+   },
+   "丙": {
+    "take": 5,
+    "easy": 5
+   },
+   "丁": {
+    "take": 3,
+    "easy": 3
+   },
+   "best": "丙"
+  },
+  "map": {
+   "甲": "detail",
+   "乙": "five",
+   "丙": "last",
+   "丁": "none"
+  },
+  "chars": {
+   "detail": 6009,
+   "five": 2664,
+   "last": 2118,
+   "none": 1931
+  }
+ },
+ {
+  "g": "gemini",
+  "topic": "個人ブログの読者を増やしたい",
+  "run": 3,
+  "who": "gemini",
+  "k": 3,
+  "scores": {
+   "甲": {
+    "take": 5,
+    "easy": 5
+   },
+   "乙": {
+    "take": 4,
+    "easy": 3
+   },
+   "丙": {
+    "take": 5,
+    "easy": 4
+   },
+   "丁": {
+    "take": 5,
+    "easy": 5
+   },
+   "best": "丁"
+  },
+  "map": {
+   "甲": "last",
+   "乙": "none",
+   "丙": "detail",
+   "丁": "five"
+  },
+  "chars": {
+   "last": 2118,
+   "none": 1931,
+   "detail": 6009,
+   "five": 2664
+  }
+ }
+]
