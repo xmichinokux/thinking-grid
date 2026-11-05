@@ -195,14 +195,33 @@ function draw() {
   $('prompt').textContent = text();
 }
 $('topic').addEventListener('input', () => { $('prompt').textContent = text(); $('status').textContent = ''; });
+// 押した瞬間に古いやり方でコピーする。新しいやり方を拒むブラウザや、待つと押した扱いが切れるブラウザがあるため
+function copyNow(s) {
+  const t = document.createElement('textarea');
+  t.value = s;
+  t.setAttribute('readonly', '');
+  t.style.cssText = 'position:fixed;top:0;left:0;opacity:0;font-size:16px';
+  document.body.append(t);
+  t.focus({ preventScroll: true });
+  t.select();
+  t.setSelectionRange(0, s.length);
+  let ok = false;
+  try { ok = document.execCommand('copy'); } catch (e) {}
+  t.remove();
+  return ok;
+}
 $('copy').addEventListener('click', async () => {
+  const s = text();
+  const done = copyNow(s);
+  $('copy').focus({ preventScroll: true });
+  if (done) { $('status').textContent = 'コピーしました。'; return; }
   try {
-    await navigator.clipboard.writeText(text());
+    await navigator.clipboard.writeText(s);
     $('status').textContent = 'コピーしました。';
   } catch (e) {
     const r = document.createRange(); r.selectNodeContents($('prompt'));
     const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r);
-    $('status').textContent = '文を選択しました。手でコピーしてください。';
+    $('status').textContent = '文を選択しました。Ctrl + C（スマホは長押し）でコピーしてください。';
   }
 });
 draw();
